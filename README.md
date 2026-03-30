@@ -1,7 +1,7 @@
-# Mini-project
+# project phase II
 
 # Title of the Project:
-Glioma Tumor Detection Using Multimodal MRI Images
+AUTISM DETECTION USING VGG16 AND VGG19 with the help of electrode
 
 ## Small Description:
 The project aims to integrate machine learning techniques for the detection and classification of glioma tumors using multimodal MRI images. By leveraging advanced image processing and deep learning algorithms, the project aims to improve early detection, diagnosis, and classification accuracy of gliomas, helping healthcare professionals make more informed decisions.
